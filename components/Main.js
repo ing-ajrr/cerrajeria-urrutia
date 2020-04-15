@@ -5,7 +5,7 @@ const Main = () => (
             <img className="main__container--img" src="/assets/images/img-llaves.jpg" alt="principal"/>
             <div className="main__container--content">
                 <h1>Cerrajeros Urrutia</h1>
-                <span className="main-container-content__span">Tu Cerrajeria en Chillan</span>
+                <h4 className="main-container-content__h4">Tu Cerrajeria en Chillan</h4>
                 <div>
                     <h2>Contáctanos Llamando al</h2>
                     <a className="phone" href="tel:+56994149804">(+569) 94149804</a>
@@ -47,12 +47,12 @@ const Main = () => (
                 text-align: right;
                 margin: 30px 0 0 0;
             }
-            .main-container-content__span{
+            .main-container-content__h4{
                 display:block;
                 padding-right: 20px;
                 color: #ffc300;
                 background-color: black;
-                font-size: 20px;
+                font-size: 18px;
                 margin: 0 0 66px 0;
                 text-align: right;
                 font-family: 'Merriweather', serif;
