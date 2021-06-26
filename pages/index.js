@@ -7,7 +7,7 @@ export default class extends React.Component {
     render() {
         return <div className="App">
             <Head>
-                <title>Cerrajeria Urrutia en Chillan - +56 9 40471242</title>
+                <title>Cerrajeria Urrutia en Chillan - +56 9 94149804</title>
                 <link href="https://fonts.googleapis.com/css?family=Slabo+27px&display=swap" rel="stylesheet"/>
                 <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet"/>
                 <link href="https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei&display=swap" rel="stylesheet"/>
